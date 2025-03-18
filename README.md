@@ -1,7 +1,6 @@
 ## Hi there, I'm Shaan
 
 🎓 B.Tech Garduate of Computer Science and Enginerring</br>
-📖 Booting up new skills</br>
 💻 I write errors more than code</br>
 🔗 This is my LinkedIn profile [www.linkedin.com/in/-shaan-]
 
